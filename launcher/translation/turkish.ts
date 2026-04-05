@@ -971,42 +971,41 @@ Pencereli - oyun, ekranınızın bir kısmını kaplayan bir pencerede çalış�
         <translation>MMAI (deneysel)</translation>
     </message>
     <message>
-        <location filename="../settingsView/csettingsview_moc.cpp" line="145"/>
         <source>Nullkiller (superseded by Nullkiller2)</source>
-        <translation>Nullkiller (Nullkiller2 ile değiştirildi)</translation>
+        <translation type="vanished">Nullkiller (Nullkiller2 ile değiştirildi)</translation>
     </message>
     <message>
-        <location filename="../settingsView/csettingsview_moc.cpp" line="149"/>
+        <location filename="../settingsView/csettingsview_moc.cpp" line="145"/>
         <source>Nullkiller2 (default, recommended)</source>
         <translation>Nullkiller2 (varsayılan, önerilen)</translation>
     </message>
     <message>
-        <location filename="../settingsView/csettingsview_moc.cpp" line="159"/>
+        <location filename="../settingsView/csettingsview_moc.cpp" line="155"/>
         <source>EmptyAI - No valid AI libraries found!</source>
         <translation>EmptyAI - Geçerli YZ kütüphaneleri bulunamadı!</translation>
     </message>
     <message>
-        <location filename="../settingsView/csettingsview_moc.cpp" line="680"/>
+        <location filename="../settingsView/csettingsview_moc.cpp" line="676"/>
         <source>Active</source>
         <translation>Etkin</translation>
     </message>
     <message>
-        <location filename="../settingsView/csettingsview_moc.cpp" line="685"/>
+        <location filename="../settingsView/csettingsview_moc.cpp" line="681"/>
         <source>Disabled</source>
         <translation>Devre dışı</translation>
     </message>
     <message>
-        <location filename="../settingsView/csettingsview_moc.cpp" line="686"/>
+        <location filename="../settingsView/csettingsview_moc.cpp" line="682"/>
         <source>Enable</source>
         <translation>Etkinleştir</translation>
     </message>
     <message>
-        <location filename="../settingsView/csettingsview_moc.cpp" line="691"/>
+        <location filename="../settingsView/csettingsview_moc.cpp" line="687"/>
         <source>Not Installed</source>
         <translation>Yüklü değil</translation>
     </message>
     <message>
-        <location filename="../settingsView/csettingsview_moc.cpp" line="692"/>
+        <location filename="../settingsView/csettingsview_moc.cpp" line="688"/>
         <source>Install</source>
         <translation>Yükle</translation>
     </message>
@@ -1475,19 +1474,16 @@ Lütfen kurulu Heroes III verilerinin bulunduğu dizini seçin.</translation>
         <translation>Resim Görüntüleyici</translation>
     </message>
     <message>
-        <location filename="../modManager/imageviewer_moc.ui" line="100"/>
         <source>&lt;</source>
-        <translation>&lt;</translation>
+        <translation type="vanished">&lt;</translation>
     </message>
     <message>
-        <location filename="../modManager/imageviewer_moc.ui" line="138"/>
         <source>&gt;</source>
-        <translation>&gt;</translation>
+        <translation type="vanished">&gt;</translation>
     </message>
     <message>
-        <location filename="../modManager/imageviewer_moc.ui" line="176"/>
         <source>X</source>
-        <translation>X</translation>
+        <translation type="vanished">X</translation>
     </message>
 </context>
 <context>
@@ -2224,7 +2220,7 @@ UYARI: Bazı durumlarda güncellenen modlar mevcut kayıtlarla uyumlu olmayabili
         <source>If you own Heroes Chronicles on gog.com, you can use offline backup installers provided by gog to import Heroes Chronicles data into VCMI as custom campaigns.
 To import Heroes Chronicles, download offline backup installer of each chronicle that you wish to install, select &apos;Import files&apos; option and select downloaded file. This will generate and install mod for VCMI that contains imported chronicles.</source>
         <translation>Heroes Chronicles&apos;a gog.com üzerinden sahipseniz, gog&apos;un sağladığı çevrimdışı yedek yükleyicileri kullanarak Heroes Chronicles verilerini VCMI&apos;ye özel seferler olarak içe aktarabilirsiniz.
-Heroes Chronicles'ı içe aktarmak için yüklemek istediğiniz her chronicle görev serisi için çevrimdışı yükleyicisini indirin, 'Dosyaları içe aktar' seçeneğini seçin ve indirdiğiniz dosyayı gösterin. Bu, içe aktarılan chronicle görevlerini içeren bir VCMI modu oluşturup yükleyecektir</translation>
+Heroes Chronicles&apos;ı içe aktarmak için yüklemek istediğiniz her chronicle görev serisi için çevrimdışı yükleyicisini indirin, &apos;Dosyaları içe aktar&apos; seçeneğini seçin ve indirdiğiniz dosyayı gösterin. Bu, içe aktarılan chronicle görevlerini içeren bir VCMI modu oluşturup yükleyecektir</translation>
     </message>
     <message>
         <location filename="../startGame/StartGameTab.cpp" line="359"/>
@@ -2242,7 +2238,7 @@ Bu sorunu çözmek için oyunu yeniden yükleyin ve desteklenen bir Heroes III s
 To resolve this problem, please copy VIDEO.VID file from Heroes III to VCMI data files directory manually or reinstall VCMI and re-import Heroes III data files.</source>
         <translation>VCMI, kurulumunuzda Heroes III video dosyalarının eksik olduğunu tespit etti. VCMI çalışacak, ancak ara sahneler oynatılamayacak.
 
-Bu sorunu çözmek için VIDEO.VID dosyasını Heroes III'ten VCMI veri dizinine elle kopyalayın veya VCMI'yi yeniden yükleyip Heroes III verilerini yeniden içe aktarın</translation>
+Bu sorunu çözmek için VIDEO.VID dosyasını Heroes III&apos;ten VCMI veri dizinine elle kopyalayın veya VCMI&apos;yi yeniden yükleyip Heroes III verilerini yeniden içe aktarın</translation>
     </message>
     <message>
         <location filename="../startGame/StartGameTab.cpp" line="381"/>
@@ -2260,7 +2256,7 @@ Bu sorunu çözmek için oyunu yeniden yükleyin ve desteklenen bir Heroes III s
 To resolve this problem, please copy missing data files from Heroes III to VCMI data files directory manually or reinstall VCMI and re-import Heroes III data files.</source>
         <translation>VCMI, kurulumunuzda bazı Heroes III: Armageddon&apos;s Blade veri dosyalarının eksik olduğunu tespit etti. VCMI çalışacak, ancak Armageddon&apos;s Blade seferleri mevcut olmayacak.
 
-Bu sorunu çözmek için eksik veri dosyalarını Heroes III'ten VCMI veri dizinine elle kopyalayın veya VCMI'yi yeniden yükleyip Heroes III verilerini yeniden içe aktarın</translation>
+Bu sorunu çözmek için eksik veri dosyalarını Heroes III&apos;ten VCMI veri dizinine elle kopyalayın veya VCMI&apos;yi yeniden yükleyip Heroes III verilerini yeniden içe aktarın</translation>
     </message>
     <message>
         <location filename="../startGame/StartGameTab.cpp" line="403"/>

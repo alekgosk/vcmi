@@ -651,7 +651,7 @@
     <name>MainWindow</name>
     <message>
         <location filename="../mainwindow.ui" line="14"/>
-        <location filename="../mainwindow.cpp" line="415"/>
+        <location filename="../mainwindow.cpp" line="417"/>
         <source>VCMI Map Editor</source>
         <translation>Редактор мап VCMI</translation>
     </message>
@@ -957,15 +957,15 @@
     </message>
     <message>
         <location filename="../mainwindow.ui" line="1254"/>
-        <location filename="../mainwindow.cpp" line="1413"/>
+        <location filename="../mainwindow.cpp" line="1416"/>
         <source>Select map layer type</source>
         <translation>Оберіть тип рівня мапи</translation>
     </message>
     <message>
         <location filename="../mainwindow.ui" line="1265"/>
-        <location filename="../mainwindow.cpp" line="1322"/>
-        <location filename="../mainwindow.cpp" line="1326"/>
-        <location filename="../mainwindow.cpp" line="1384"/>
+        <location filename="../mainwindow.cpp" line="1325"/>
+        <location filename="../mainwindow.cpp" line="1329"/>
+        <location filename="../mainwindow.cpp" line="1387"/>
         <source>Update appearance</source>
         <translation>Оновити вигляд</translation>
     </message>
@@ -1158,12 +1158,12 @@
         <translation>Ctrl+Shift+=</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="391"/>
+        <location filename="../mainwindow.cpp" line="393"/>
         <source>Confirmation</source>
         <translation>Підтвердження</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="391"/>
+        <location filename="../mainwindow.cpp" line="393"/>
         <source>Unsaved changes will be lost, are you sure?</source>
         <translation>Незбережені зміни буде втрачено, ви впевнені?</translation>
     </message>
@@ -1180,184 +1180,184 @@
         <translation type="obsolete">Рівень - %1</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="453"/>
-        <location filename="../mainwindow.cpp" line="1430"/>
+        <location filename="../mainwindow.cpp" line="456"/>
+        <location filename="../mainwindow.cpp" line="1433"/>
         <source>Level %1: %2</source>
         <translation>Рівень %1: %2</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="479"/>
+        <location filename="../mainwindow.cpp" line="482"/>
         <source>Mods are required</source>
         <translation>Є необхідні модифікації</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="487"/>
-        <location filename="../mainwindow.cpp" line="493"/>
+        <location filename="../mainwindow.cpp" line="490"/>
+        <location filename="../mainwindow.cpp" line="496"/>
         <source>Failed to open map</source>
         <translation>Не вдалося відкрити мапу</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="524"/>
+        <location filename="../mainwindow.cpp" line="527"/>
         <source>Open map</source>
         <translation>Відкрити мапу</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="526"/>
+        <location filename="../mainwindow.cpp" line="529"/>
         <source>All supported maps (*.vmap *.h3m);;VCMI maps(*.vmap);;HoMM3 maps(*.h3m)</source>
         <translation>Всі підтримувані мапи (*.vmap *.h3m);;Мапи VCMI (*.vmap);;Мапи HoMM3 (*.h3m)</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="580"/>
+        <location filename="../mainwindow.cpp" line="583"/>
         <source>Recently Opened Files</source>
         <translation>Нещодавні файли</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="633"/>
+        <location filename="../mainwindow.cpp" line="636"/>
         <source>Map validation</source>
         <translation>Валідація мапи</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="635"/>
+        <location filename="../mainwindow.cpp" line="638"/>
         <source>Map has critical problems and most probably will not be playable. Open Validator from the Map menu to see issues found</source>
         <translation>На мапі знайдено критичні помилки і, ймовірно, вона не буде придатна для гри. Відкрийте валідатор у меню Мапа щоб побачити знайдені проблеми</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="637"/>
+        <location filename="../mainwindow.cpp" line="640"/>
         <source>Map has some errors. Open Validator from the Map menu to see issues found</source>
         <translation>На мапі знайдено деякі помилки. Відкрийте валідатор у меню Мапа, щоб побачити знайдені проблеми</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="664"/>
+        <location filename="../mainwindow.cpp" line="667"/>
         <source>Failed to save map</source>
         <translation>Не вдалося зберегти мапу</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="677"/>
+        <location filename="../mainwindow.cpp" line="680"/>
         <source>Save map</source>
         <translation>Зберегти мапу</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="677"/>
+        <location filename="../mainwindow.cpp" line="680"/>
         <source>VCMI maps (*.vmap)</source>
         <translation>Мапи VCMI</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="885"/>
+        <location filename="../mainwindow.cpp" line="888"/>
         <source>Type</source>
         <translation>Тип</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="898"/>
+        <location filename="../mainwindow.cpp" line="901"/>
         <source>Towns</source>
         <translation>Міста</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="899"/>
+        <location filename="../mainwindow.cpp" line="902"/>
         <source>Objects</source>
         <translation>Об’єкти</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="900"/>
+        <location filename="../mainwindow.cpp" line="903"/>
         <source>Heroes</source>
         <translation>Герої</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="901"/>
+        <location filename="../mainwindow.cpp" line="904"/>
         <source>Artifacts</source>
         <translation>Артефакти</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="902"/>
+        <location filename="../mainwindow.cpp" line="905"/>
         <source>Resources</source>
         <translation>Ресурси</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="903"/>
+        <location filename="../mainwindow.cpp" line="906"/>
         <source>Banks</source>
         <translation>Банки істот</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="904"/>
+        <location filename="../mainwindow.cpp" line="907"/>
         <source>Dwellings</source>
         <translation>Зовнішні житла</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="905"/>
+        <location filename="../mainwindow.cpp" line="908"/>
         <source>Grounds</source>
         <translation>Ґрунти</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="906"/>
+        <location filename="../mainwindow.cpp" line="909"/>
         <source>Teleports</source>
         <translation>Телепорти</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="907"/>
+        <location filename="../mainwindow.cpp" line="910"/>
         <source>Mines</source>
         <translation>Шахти</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="908"/>
+        <location filename="../mainwindow.cpp" line="911"/>
         <source>Triggers</source>
         <translation>Тригери</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="909"/>
+        <location filename="../mainwindow.cpp" line="912"/>
         <source>Monsters</source>
         <translation>Створіння</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="910"/>
+        <location filename="../mainwindow.cpp" line="913"/>
         <source>Quests</source>
         <translation>Завдання</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="911"/>
+        <location filename="../mainwindow.cpp" line="914"/>
         <source>Wog Objects</source>
         <translation>об’єкти WoG</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="912"/>
+        <location filename="../mainwindow.cpp" line="915"/>
         <source>Obstacles</source>
         <translation>Перешкоди</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="913"/>
+        <location filename="../mainwindow.cpp" line="916"/>
         <source>Other</source>
         <translation>Інші</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="1050"/>
+        <location filename="../mainwindow.cpp" line="1053"/>
         <source>Mods loading problem</source>
         <translation>Проблема з завантаженням модифікацій</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="1050"/>
+        <location filename="../mainwindow.cpp" line="1053"/>
         <source>Critical error during Mods loading. Disable invalid mods and restart.</source>
         <translation>Критична помилка під час завантаження модифікацій. Вимкніть невірні модифікації та перезапустіть.</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="1056"/>
+        <location filename="../mainwindow.cpp" line="1059"/>
         <source>Undo clicked</source>
         <translation>Дія відмінена</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="1067"/>
+        <location filename="../mainwindow.cpp" line="1070"/>
         <source>Redo clicked</source>
         <translation>Дія повторена</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="1078"/>
+        <location filename="../mainwindow.cpp" line="1081"/>
         <source>Passability clicked</source>
         <translation>Прохідність переключена</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="1091"/>
+        <location filename="../mainwindow.cpp" line="1094"/>
         <source>Grid clicked</source>
         <translation>Сітка переключена</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="1172"/>
+        <location filename="../mainwindow.cpp" line="1175"/>
         <source>Fill clicked</source>
         <translation>Заповнення переключено</translation>
     </message>
@@ -1366,77 +1366,87 @@
         <translation type="vanished">Дивитись поверхню</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="1322"/>
+        <location filename="../mainwindow.cpp" line="1325"/>
         <source>No objects selected</source>
         <translation>Немає обраних об&apos;єктів</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="1326"/>
+        <location filename="../mainwindow.cpp" line="1329"/>
         <source>This operation is irreversible. Do you want to continue?</source>
         <translation>Ця операція незворотна. Ви впевнені що бажаєте продовжити?</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="1384"/>
+        <location filename="../mainwindow.cpp" line="1387"/>
         <source>Errors occurred. %1 objects were not updated</source>
         <translation>Сталися помилки. %1 об’єкт(ів) не було оновлено</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="1414"/>
+        <location filename="../mainwindow.cpp" line="1417"/>
         <source>Type:</source>
         <translation>Тип:</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="1469"/>
+        <location filename="../mainwindow.cpp" line="1475"/>
         <source>Save to image</source>
         <translation>Зберегти як зображення</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="1501"/>
+        <location filename="../mainwindow.cpp" line="1518"/>
+        <source>Failed to save image</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../mainwindow.cpp" line="1518"/>
+        <source>Cannot save image to %1.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../mainwindow.cpp" line="1533"/>
         <source>Select maps to convert</source>
         <translation>Виберіть карти для перетворення</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="1503"/>
+        <location filename="../mainwindow.cpp" line="1535"/>
         <source>HoMM3 maps(*.h3m)</source>
         <translation>Мапи HoMM3 (*.h3m)</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="1507"/>
+        <location filename="../mainwindow.cpp" line="1539"/>
         <source>Choose directory to save converted maps</source>
         <translation>Виберіть теку для збереження перетворених мап</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="1521"/>
+        <location filename="../mainwindow.cpp" line="1553"/>
         <source>Operation completed</source>
         <translation>Операція виконана</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="1521"/>
+        <location filename="../mainwindow.cpp" line="1553"/>
         <source>Successfully converted %1 maps</source>
         <translation>Успішно перетворено %1 мап(и)</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="1525"/>
+        <location filename="../mainwindow.cpp" line="1557"/>
         <source>Failed to convert the map. Abort operation</source>
         <translation>Не вдалося перетворити карту. Операції перервано</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="1531"/>
+        <location filename="../mainwindow.cpp" line="1563"/>
         <source>Select campaign to convert</source>
         <translation>Виберіть кампанію для перетворення</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="1533"/>
+        <location filename="../mainwindow.cpp" line="1565"/>
         <source>HoMM3 campaigns (*.h3c)</source>
         <translation>Кампанії HoMM3 (*.h3c)</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="1537"/>
+        <location filename="../mainwindow.cpp" line="1569"/>
         <source>Select destination file</source>
         <translation>Виберіть файл призначення</translation>
     </message>
     <message>
-        <location filename="../mainwindow.cpp" line="1539"/>
+        <location filename="../mainwindow.cpp" line="1571"/>
         <source>VCMI campaigns (*.vcmp)</source>
         <translation>Кампанії VCMI (*.vcmp)</translation>
     </message>
@@ -1539,7 +1549,7 @@ Do you want to do that now ?</source>
 <context>
     <name>MapView</name>
     <message>
-        <location filename="../mapview.cpp" line="637"/>
+        <location filename="../mapview.cpp" line="660"/>
         <source>Can&apos;t place object</source>
         <translation>Неможливо розмістити об&apos;єкт</translation>
     </message>
@@ -1940,27 +1950,27 @@ Do you want to do that now ?</source>
         <translation>Вторинні навички:</translation>
     </message>
     <message>
-        <location filename="../inspector/inspector.cpp" line="940"/>
+        <location filename="../inspector/inspector.cpp" line="943"/>
         <source>Compliant</source>
         <translation>Слухняний</translation>
     </message>
     <message>
-        <location filename="../inspector/inspector.cpp" line="941"/>
+        <location filename="../inspector/inspector.cpp" line="944"/>
         <source>Friendly</source>
         <translation>Дружній</translation>
     </message>
     <message>
-        <location filename="../inspector/inspector.cpp" line="942"/>
+        <location filename="../inspector/inspector.cpp" line="945"/>
         <source>Aggressive</source>
         <translation>Агресивний</translation>
     </message>
     <message>
-        <location filename="../inspector/inspector.cpp" line="943"/>
+        <location filename="../inspector/inspector.cpp" line="946"/>
         <source>Hostile</source>
         <translation>Ворожий</translation>
     </message>
     <message>
-        <location filename="../inspector/inspector.cpp" line="944"/>
+        <location filename="../inspector/inspector.cpp" line="947"/>
         <source>Savage</source>
         <translation>Лютий</translation>
     </message>
@@ -2021,54 +2031,54 @@ Do you want to do that now ?</source>
         <translation>Події</translation>
     </message>
     <message>
-        <location filename="../inspector/inspector.cpp" line="409"/>
+        <location filename="../inspector/inspector.cpp" line="412"/>
         <source>Resource</source>
         <translation>Ресурс</translation>
     </message>
     <message>
-        <location filename="../inspector/inspector.cpp" line="440"/>
+        <location filename="../inspector/inspector.cpp" line="443"/>
         <source>Artifact reward</source>
         <translation>Нагорода — артефакт</translation>
     </message>
     <message>
-        <location filename="../inspector/inspector.cpp" line="483"/>
+        <location filename="../inspector/inspector.cpp" line="486"/>
         <source>Quest</source>
         <translation>Завдання</translation>
     </message>
     <message>
-        <location filename="../inspector/inspector.cpp" line="501"/>
+        <location filename="../inspector/inspector.cpp" line="504"/>
         <source>Identifier</source>
         <translation>Ідентифікатор</translation>
     </message>
     <message>
-        <location filename="../inspector/inspector.cpp" line="502"/>
+        <location filename="../inspector/inspector.cpp" line="505"/>
         <source>ID</source>
         <translation>ІД</translation>
     </message>
     <message>
-        <location filename="../inspector/inspector.cpp" line="503"/>
+        <location filename="../inspector/inspector.cpp" line="506"/>
         <source>SubID</source>
         <translation>Вторинний ІД</translation>
     </message>
     <message>
-        <location filename="../inspector/inspector.cpp" line="504"/>
+        <location filename="../inspector/inspector.cpp" line="507"/>
         <source>InstanceName</source>
         <translation>Унікальний ідентифікатор</translation>
     </message>
     <message>
-        <location filename="../inspector/inspector.cpp" line="509"/>
+        <location filename="../inspector/inspector.cpp" line="512"/>
         <source>IsStatic</source>
         <translation>Об&apos;єкт статичний</translation>
     </message>
     <message>
-        <location filename="../inspector/inspector.cpp" line="883"/>
-        <location filename="../inspector/inspector.cpp" line="994"/>
+        <location filename="../inspector/inspector.cpp" line="886"/>
+        <location filename="../inspector/inspector.cpp" line="997"/>
         <source>neutral</source>
         <translation>нейтральний</translation>
     </message>
     <message>
         <location filename="../inspector/inspector.cpp" line="246"/>
-        <location filename="../inspector/inspector.cpp" line="441"/>
+        <location filename="../inspector/inspector.cpp" line="444"/>
         <source>Army</source>
         <translation>Армія</translation>
     </message>
@@ -2079,47 +2089,47 @@ Do you want to do that now ?</source>
         <location filename="../inspector/inspector.cpp" line="281"/>
         <location filename="../inspector/inspector.cpp" line="288"/>
         <location filename="../inspector/inspector.cpp" line="319"/>
-        <location filename="../inspector/inspector.cpp" line="407"/>
-        <location filename="../inspector/inspector.cpp" line="512"/>
-        <location filename="../inspector/inspector.cpp" line="559"/>
+        <location filename="../inspector/inspector.cpp" line="410"/>
+        <location filename="../inspector/inspector.cpp" line="515"/>
+        <location filename="../inspector/inspector.cpp" line="562"/>
         <source>Owner</source>
         <translation>Власник</translation>
     </message>
     <message>
         <location filename="../inspector/inspector.cpp" line="258"/>
-        <location filename="../inspector/inspector.cpp" line="667"/>
+        <location filename="../inspector/inspector.cpp" line="670"/>
         <source>Same as town</source>
         <translation>Таке ж як і місто</translation>
     </message>
     <message>
         <location filename="../inspector/inspector.cpp" line="274"/>
-        <location filename="../inspector/inspector.cpp" line="682"/>
+        <location filename="../inspector/inspector.cpp" line="685"/>
         <source>Removable units</source>
         <translation>Загони можна переміщати</translation>
     </message>
     <message>
         <location filename="../inspector/inspector.cpp" line="299"/>
-        <location filename="../inspector/inspector.cpp" line="690"/>
+        <location filename="../inspector/inspector.cpp" line="693"/>
         <source>Placeholder type</source>
         <translation>Тип місця для героя</translation>
     </message>
     <message>
         <location filename="../inspector/inspector.cpp" line="302"/>
-        <location filename="../inspector/inspector.cpp" line="708"/>
+        <location filename="../inspector/inspector.cpp" line="711"/>
         <source>Power rank</source>
         <translation>Ранг сили</translation>
     </message>
     <message>
         <location filename="../inspector/inspector.cpp" line="310"/>
         <location filename="../inspector/inspector.cpp" line="350"/>
-        <location filename="../inspector/inspector.cpp" line="711"/>
-        <location filename="../inspector/inspector.cpp" line="735"/>
+        <location filename="../inspector/inspector.cpp" line="714"/>
+        <location filename="../inspector/inspector.cpp" line="738"/>
         <source>Hero type</source>
         <translation>Тип героя</translation>
     </message>
     <message>
         <location filename="../inspector/inspector.cpp" line="320"/>
-        <location filename="../inspector/inspector.cpp" line="732"/>
+        <location filename="../inspector/inspector.cpp" line="735"/>
         <source>Experience</source>
         <translation>Досвід</translation>
     </message>
@@ -2137,19 +2147,19 @@ Do you want to do that now ?</source>
     </message>
     <message>
         <location filename="../inspector/inspector.cpp" line="326"/>
-        <location filename="../inspector/inspector.cpp" line="721"/>
+        <location filename="../inspector/inspector.cpp" line="724"/>
         <source>Gender</source>
         <translation>Стать</translation>
     </message>
     <message>
         <location filename="../inspector/inspector.cpp" line="328"/>
-        <location filename="../inspector/inspector.cpp" line="724"/>
+        <location filename="../inspector/inspector.cpp" line="727"/>
         <source>Name</source>
         <translation>Ім&apos;я</translation>
     </message>
     <message>
         <location filename="../inspector/inspector.cpp" line="329"/>
-        <location filename="../inspector/inspector.cpp" line="728"/>
+        <location filename="../inspector/inspector.cpp" line="731"/>
         <source>Biography</source>
         <translation>Біографія</translation>
     </message>
@@ -2161,135 +2171,135 @@ Do you want to do that now ?</source>
     </message>
     <message>
         <location filename="../inspector/inspector.cpp" line="359"/>
-        <location filename="../inspector/inspector.cpp" line="747"/>
+        <location filename="../inspector/inspector.cpp" line="750"/>
         <source>Patrol radius</source>
         <translation>Радіус патруля</translation>
     </message>
     <message>
         <location filename="../inspector/inspector.cpp" line="367"/>
-        <location filename="../inspector/inspector.cpp" line="624"/>
+        <location filename="../inspector/inspector.cpp" line="627"/>
         <source>Town name</source>
         <translation>Назва міста</translation>
     </message>
     <message>
         <location filename="../inspector/inspector.cpp" line="374"/>
-        <location filename="../inspector/inspector.cpp" line="628"/>
+        <location filename="../inspector/inspector.cpp" line="631"/>
         <source>Same as player</source>
         <translation>Таке ж як і гравець</translation>
     </message>
     <message>
         <location filename="../inspector/inspector.cpp" line="381"/>
-        <location filename="../inspector/inspector.cpp" line="418"/>
-        <location filename="../inspector/inspector.cpp" line="425"/>
-        <location filename="../inspector/inspector.cpp" line="432"/>
-        <location filename="../inspector/inspector.cpp" line="458"/>
-        <location filename="../inspector/inspector.cpp" line="601"/>
-        <location filename="../inspector/inspector.cpp" line="636"/>
-        <location filename="../inspector/inspector.cpp" line="653"/>
-        <location filename="../inspector/inspector.cpp" line="772"/>
+        <location filename="../inspector/inspector.cpp" line="421"/>
+        <location filename="../inspector/inspector.cpp" line="428"/>
+        <location filename="../inspector/inspector.cpp" line="435"/>
+        <location filename="../inspector/inspector.cpp" line="461"/>
+        <location filename="../inspector/inspector.cpp" line="604"/>
+        <location filename="../inspector/inspector.cpp" line="639"/>
+        <location filename="../inspector/inspector.cpp" line="656"/>
+        <location filename="../inspector/inspector.cpp" line="775"/>
         <source>Message</source>
         <translation>Повідомлення</translation>
     </message>
     <message>
-        <location filename="../inspector/inspector.cpp" line="398"/>
-        <location filename="../inspector/inspector.cpp" line="657"/>
+        <location filename="../inspector/inspector.cpp" line="401"/>
+        <location filename="../inspector/inspector.cpp" line="660"/>
         <source>Spell</source>
         <translation>Закляття</translation>
     </message>
     <message>
-        <location filename="../inspector/inspector.cpp" line="410"/>
-        <location filename="../inspector/inspector.cpp" line="645"/>
+        <location filename="../inspector/inspector.cpp" line="413"/>
+        <location filename="../inspector/inspector.cpp" line="648"/>
         <source>Productivity</source>
         <translation>Продуктивність</translation>
     </message>
     <message>
-        <location filename="../inspector/inspector.cpp" line="417"/>
-        <location filename="../inspector/inspector.cpp" line="442"/>
-        <location filename="../inspector/inspector.cpp" line="764"/>
-        <location filename="../inspector/inspector.cpp" line="781"/>
+        <location filename="../inspector/inspector.cpp" line="420"/>
+        <location filename="../inspector/inspector.cpp" line="445"/>
+        <location filename="../inspector/inspector.cpp" line="767"/>
+        <location filename="../inspector/inspector.cpp" line="784"/>
         <source>Amount</source>
         <translation>Кількість</translation>
     </message>
     <message>
-        <location filename="../inspector/inspector.cpp" line="436"/>
-        <location filename="../inspector/inspector.cpp" line="775"/>
+        <location filename="../inspector/inspector.cpp" line="439"/>
+        <location filename="../inspector/inspector.cpp" line="778"/>
         <source>Character</source>
         <translation>Характер</translation>
     </message>
     <message>
-        <location filename="../inspector/inspector.cpp" line="926"/>
+        <location filename="../inspector/inspector.cpp" line="929"/>
         <source>Select town</source>
         <translation>Обрати місто</translation>
     </message>
     <message>
-        <location filename="../inspector/inspector.cpp" line="438"/>
-        <location filename="../inspector/inspector.cpp" line="777"/>
+        <location filename="../inspector/inspector.cpp" line="441"/>
+        <location filename="../inspector/inspector.cpp" line="780"/>
         <source>Never flees</source>
         <translation>Ніколи не тікає</translation>
     </message>
     <message>
-        <location filename="../inspector/inspector.cpp" line="439"/>
-        <location filename="../inspector/inspector.cpp" line="779"/>
+        <location filename="../inspector/inspector.cpp" line="442"/>
+        <location filename="../inspector/inspector.cpp" line="782"/>
         <source>Not growing</source>
         <translation>Розмір не зростає</translation>
     </message>
     <message>
-        <location filename="../inspector/inspector.cpp" line="451"/>
-        <location filename="../inspector/inspector.cpp" line="491"/>
+        <location filename="../inspector/inspector.cpp" line="454"/>
+        <location filename="../inspector/inspector.cpp" line="494"/>
         <source>Reward</source>
         <translation>Нагорода</translation>
     </message>
     <message>
-        <location filename="../inspector/inspector.cpp" line="465"/>
-        <location filename="../inspector/inspector.cpp" line="610"/>
+        <location filename="../inspector/inspector.cpp" line="468"/>
+        <location filename="../inspector/inspector.cpp" line="613"/>
         <source>Remove after</source>
         <translation>Видалити після події</translation>
     </message>
     <message>
-        <location filename="../inspector/inspector.cpp" line="466"/>
-        <location filename="../inspector/inspector.cpp" line="613"/>
+        <location filename="../inspector/inspector.cpp" line="469"/>
+        <location filename="../inspector/inspector.cpp" line="616"/>
         <source>Human trigger</source>
         <translation>Активація гравцем-людиною</translation>
     </message>
     <message>
-        <location filename="../inspector/inspector.cpp" line="467"/>
-        <location filename="../inspector/inspector.cpp" line="616"/>
+        <location filename="../inspector/inspector.cpp" line="470"/>
+        <location filename="../inspector/inspector.cpp" line="619"/>
         <source>Cpu trigger</source>
         <translation>Активація ШІ гравцем</translation>
     </message>
     <message>
-        <location filename="../inspector/inspector.cpp" line="475"/>
-        <location filename="../inspector/inspector.cpp" line="789"/>
+        <location filename="../inspector/inspector.cpp" line="478"/>
+        <location filename="../inspector/inspector.cpp" line="792"/>
         <source>First visit text</source>
         <translation>Текст при першому відвідуванні</translation>
     </message>
     <message>
-        <location filename="../inspector/inspector.cpp" line="476"/>
-        <location filename="../inspector/inspector.cpp" line="792"/>
+        <location filename="../inspector/inspector.cpp" line="479"/>
+        <location filename="../inspector/inspector.cpp" line="795"/>
         <source>Next visit text</source>
         <translation>Текст при наступному відвідуванні</translation>
     </message>
     <message>
-        <location filename="../inspector/inspector.cpp" line="477"/>
-        <location filename="../inspector/inspector.cpp" line="795"/>
+        <location filename="../inspector/inspector.cpp" line="480"/>
+        <location filename="../inspector/inspector.cpp" line="798"/>
         <source>Completed text</source>
         <translation>Текст при виконанні завдання</translation>
     </message>
     <message>
-        <location filename="../inspector/inspector.cpp" line="478"/>
-        <location filename="../inspector/inspector.cpp" line="492"/>
-        <location filename="../inspector/inspector.cpp" line="798"/>
+        <location filename="../inspector/inspector.cpp" line="481"/>
+        <location filename="../inspector/inspector.cpp" line="495"/>
+        <location filename="../inspector/inspector.cpp" line="801"/>
         <source>Repeat quest</source>
         <translation>Багаторазове завдання</translation>
     </message>
     <message>
-        <location filename="../inspector/inspector.cpp" line="479"/>
-        <location filename="../inspector/inspector.cpp" line="800"/>
+        <location filename="../inspector/inspector.cpp" line="482"/>
+        <location filename="../inspector/inspector.cpp" line="803"/>
         <source>Time limit</source>
         <translation>Обмеження за часом</translation>
     </message>
     <message>
-        <location filename="../inspector/inspector.cpp" line="881"/>
+        <location filename="../inspector/inspector.cpp" line="884"/>
         <source>UNFLAGGABLE</source>
         <translation>ЗАВЖДИ НЕЙТРАЛЬНИЙ</translation>
     </message>
@@ -3427,7 +3437,7 @@ Add it to the map&apos;s required mods in Map-&gt;General settings.</source>
     <name>TemplateEditor</name>
     <message>
         <location filename="../templateeditor/templateeditor.ui" line="14"/>
-        <location filename="../templateeditor/templateeditor.cpp" line="637"/>
+        <location filename="../templateeditor/templateeditor.cpp" line="651"/>
         <source>VCMI Template Editor</source>
         <translation>Редактор шаблонів VCMI</translation>
     </message>
@@ -3459,7 +3469,7 @@ Add it to the map&apos;s required mods in Map-&gt;General settings.</source>
     <message>
         <location filename="../templateeditor/templateeditor.ui" line="137"/>
         <location filename="../templateeditor/templateeditor.ui" line="1325"/>
-        <location filename="../templateeditor/templateeditor.cpp" line="265"/>
+        <location filename="../templateeditor/templateeditor.cpp" line="271"/>
         <source>Add</source>
         <translation>Додати</translation>
     </message>
@@ -3537,14 +3547,14 @@ Add it to the map&apos;s required mods in Map-&gt;General settings.</source>
     </message>
     <message>
         <location filename="../templateeditor/templateeditor.ui" line="478"/>
-        <location filename="../templateeditor/templateeditor.cpp" line="403"/>
-        <location filename="../templateeditor/templateeditor.cpp" line="416"/>
+        <location filename="../templateeditor/templateeditor.cpp" line="409"/>
+        <location filename="../templateeditor/templateeditor.cpp" line="422"/>
         <source>None</source>
         <translation>Немає</translation>
     </message>
     <message>
         <location filename="../templateeditor/templateeditor.ui" line="485"/>
-        <location filename="../templateeditor/templateeditor.cpp" line="419"/>
+        <location filename="../templateeditor/templateeditor.cpp" line="425"/>
         <source>Normal</source>
         <translation>Типова</translation>
     </message>
@@ -3606,7 +3616,7 @@ Add it to the map&apos;s required mods in Map-&gt;General settings.</source>
     </message>
     <message>
         <location filename="../templateeditor/templateeditor.ui" line="689"/>
-        <location filename="../templateeditor/templateeditor.cpp" line="435"/>
+        <location filename="../templateeditor/templateeditor.cpp" line="443"/>
         <source>Type</source>
         <translation>Тип</translation>
     </message>
@@ -3654,7 +3664,7 @@ Add it to the map&apos;s required mods in Map-&gt;General settings.</source>
         <location filename="../templateeditor/templateeditor.ui" line="785"/>
         <location filename="../templateeditor/templateeditor.ui" line="1229"/>
         <location filename="../templateeditor/templateeditor.ui" line="1235"/>
-        <location filename="../templateeditor/templateeditor.cpp" line="378"/>
+        <location filename="../templateeditor/templateeditor.cpp" line="384"/>
         <source>Treasure</source>
         <translation>Скарб</translation>
     </message>
@@ -3801,7 +3811,7 @@ Add it to the map&apos;s required mods in Map-&gt;General settings.</source>
     </message>
     <message>
         <location filename="../templateeditor/templateeditor.ui" line="1389"/>
-        <location filename="../templateeditor/templateeditor.cpp" line="466"/>
+        <location filename="../templateeditor/templateeditor.cpp" line="474"/>
         <source>Del</source>
         <translation>Видалити</translation>
     </message>
@@ -3856,149 +3866,149 @@ Add it to the map&apos;s required mods in Map-&gt;General settings.</source>
         <translation>Ctrl+Shift+=</translation>
     </message>
     <message>
-        <location filename="../templateeditor/templateeditor.cpp" line="236"/>
+        <location filename="../templateeditor/templateeditor.cpp" line="242"/>
         <source>Min</source>
         <translation>Мін</translation>
     </message>
     <message>
-        <location filename="../templateeditor/templateeditor.cpp" line="236"/>
+        <location filename="../templateeditor/templateeditor.cpp" line="242"/>
         <source>Max</source>
         <translation>Макс</translation>
     </message>
     <message>
-        <location filename="../templateeditor/templateeditor.cpp" line="236"/>
+        <location filename="../templateeditor/templateeditor.cpp" line="242"/>
         <source>Action</source>
         <translation>Дія</translation>
     </message>
     <message>
-        <location filename="../templateeditor/templateeditor.cpp" line="254"/>
-        <location filename="../templateeditor/templateeditor.cpp" line="467"/>
+        <location filename="../templateeditor/templateeditor.cpp" line="260"/>
+        <location filename="../templateeditor/templateeditor.cpp" line="475"/>
         <source>Delete</source>
         <translation>Видалити</translation>
     </message>
     <message>
-        <location filename="../templateeditor/templateeditor.cpp" line="293"/>
+        <location filename="../templateeditor/templateeditor.cpp" line="299"/>
         <source>ID: %1</source>
         <translation>ІД: %1</translation>
     </message>
     <message>
-        <location filename="../templateeditor/templateeditor.cpp" line="295"/>
+        <location filename="../templateeditor/templateeditor.cpp" line="301"/>
         <source>Max treasure: %1</source>
         <translation>Макс. скарб: %1</translation>
     </message>
     <message>
-        <location filename="../templateeditor/templateeditor.cpp" line="376"/>
+        <location filename="../templateeditor/templateeditor.cpp" line="382"/>
         <source>Player start</source>
         <translation>Старт гравця</translation>
     </message>
     <message>
-        <location filename="../templateeditor/templateeditor.cpp" line="377"/>
+        <location filename="../templateeditor/templateeditor.cpp" line="383"/>
         <source>CPU start</source>
         <translation>Старт ШІ</translation>
     </message>
     <message>
-        <location filename="../templateeditor/templateeditor.cpp" line="379"/>
+        <location filename="../templateeditor/templateeditor.cpp" line="385"/>
         <source>Junction</source>
         <translation type="unfinished">Вузол</translation>
     </message>
     <message>
-        <location filename="../templateeditor/templateeditor.cpp" line="380"/>
+        <location filename="../templateeditor/templateeditor.cpp" line="386"/>
         <source>Water</source>
         <translation>Вода</translation>
     </message>
     <message>
-        <location filename="../templateeditor/templateeditor.cpp" line="381"/>
+        <location filename="../templateeditor/templateeditor.cpp" line="387"/>
         <source>Sealed</source>
         <translation type="unfinished">Запечатано</translation>
     </message>
     <message>
-        <location filename="../templateeditor/templateeditor.cpp" line="408"/>
+        <location filename="../templateeditor/templateeditor.cpp" line="414"/>
         <source>Automatic</source>
         <translation>Автоматично</translation>
     </message>
     <message>
-        <location filename="../templateeditor/templateeditor.cpp" line="409"/>
+        <location filename="../templateeditor/templateeditor.cpp" line="415"/>
         <source>Surface</source>
         <translation>Поверхня</translation>
     </message>
     <message>
-        <location filename="../templateeditor/templateeditor.cpp" line="410"/>
+        <location filename="../templateeditor/templateeditor.cpp" line="416"/>
         <source>Underground</source>
         <translation>Підземелля</translation>
     </message>
     <message>
-        <location filename="../templateeditor/templateeditor.cpp" line="417"/>
-        <location filename="../templateeditor/templateeditor.cpp" line="454"/>
+        <location filename="../templateeditor/templateeditor.cpp" line="423"/>
+        <location filename="../templateeditor/templateeditor.cpp" line="462"/>
         <source>Random</source>
         <translation>Випадково</translation>
     </message>
     <message>
-        <location filename="../templateeditor/templateeditor.cpp" line="418"/>
+        <location filename="../templateeditor/templateeditor.cpp" line="424"/>
         <source>Weak</source>
         <translation>Слабкі</translation>
     </message>
     <message>
-        <location filename="../templateeditor/templateeditor.cpp" line="420"/>
+        <location filename="../templateeditor/templateeditor.cpp" line="426"/>
         <source>Strong</source>
         <translation>Сильні</translation>
     </message>
     <message>
-        <location filename="../templateeditor/templateeditor.cpp" line="435"/>
+        <location filename="../templateeditor/templateeditor.cpp" line="443"/>
         <source>Zone A</source>
         <translation>Зона А</translation>
     </message>
     <message>
-        <location filename="../templateeditor/templateeditor.cpp" line="435"/>
+        <location filename="../templateeditor/templateeditor.cpp" line="443"/>
         <source>Zone B</source>
         <translation>Зона Б</translation>
     </message>
     <message>
-        <location filename="../templateeditor/templateeditor.cpp" line="435"/>
+        <location filename="../templateeditor/templateeditor.cpp" line="443"/>
         <source>Guard</source>
         <translation>Охорона</translation>
     </message>
     <message>
-        <location filename="../templateeditor/templateeditor.cpp" line="435"/>
+        <location filename="../templateeditor/templateeditor.cpp" line="443"/>
         <source>Road</source>
         <translation>Дорога</translation>
     </message>
     <message>
-        <location filename="../templateeditor/templateeditor.cpp" line="449"/>
+        <location filename="../templateeditor/templateeditor.cpp" line="457"/>
         <source>Guarded</source>
         <translation>Під охороною</translation>
     </message>
     <message>
-        <location filename="../templateeditor/templateeditor.cpp" line="450"/>
+        <location filename="../templateeditor/templateeditor.cpp" line="458"/>
         <source>Fictive</source>
         <translation type="unfinished">Фіктивний</translation>
     </message>
     <message>
-        <location filename="../templateeditor/templateeditor.cpp" line="451"/>
+        <location filename="../templateeditor/templateeditor.cpp" line="459"/>
         <source>Repulsive</source>
         <translation type="unfinished">Відштовхувальний</translation>
     </message>
     <message>
-        <location filename="../templateeditor/templateeditor.cpp" line="452"/>
+        <location filename="../templateeditor/templateeditor.cpp" line="460"/>
         <source>Wide</source>
         <translation type="unfinished">Широкий</translation>
     </message>
     <message>
-        <location filename="../templateeditor/templateeditor.cpp" line="453"/>
+        <location filename="../templateeditor/templateeditor.cpp" line="461"/>
         <source>Force portal</source>
         <translation type="unfinished">Примусовий портал</translation>
     </message>
     <message>
-        <location filename="../templateeditor/templateeditor.cpp" line="455"/>
+        <location filename="../templateeditor/templateeditor.cpp" line="463"/>
         <source>Yes</source>
         <translation>Так</translation>
     </message>
     <message>
-        <location filename="../templateeditor/templateeditor.cpp" line="456"/>
+        <location filename="../templateeditor/templateeditor.cpp" line="464"/>
         <source>No</source>
         <translation>Ні</translation>
     </message>
     <message>
-        <location filename="../templateeditor/templateeditor.cpp" line="565"/>
+        <location filename="../templateeditor/templateeditor.cpp" line="579"/>
         <source>Zone A: %1
 Zone B: %2
 Guard: %3</source>
@@ -4007,99 +4017,113 @@ Guard: %3</source>
 Охорона: %3</translation>
     </message>
     <message>
-        <location filename="../templateeditor/templateeditor.cpp" line="625"/>
+        <location filename="../templateeditor/templateeditor.cpp" line="639"/>
         <source>Confirmation</source>
         <translation>Підтвердження</translation>
     </message>
     <message>
-        <location filename="../templateeditor/templateeditor.cpp" line="625"/>
+        <location filename="../templateeditor/templateeditor.cpp" line="639"/>
         <source>Unsaved changes will be lost, are you sure?</source>
         <translation>Незбережені зміни буде втрачено, ви впевнені?</translation>
     </message>
     <message>
-        <location filename="../templateeditor/templateeditor.cpp" line="649"/>
+        <location filename="../templateeditor/templateeditor.cpp" line="663"/>
         <source>Validation failed!</source>
         <translation>Валідація не пройшла!</translation>
     </message>
     <message>
-        <location filename="../templateeditor/templateeditor.cpp" line="654"/>
+        <location filename="../templateeditor/templateeditor.cpp" line="668"/>
         <source>No player range defined.</source>
         <translation>Не визначено кількість гравців.</translation>
     </message>
     <message>
-        <location filename="../templateeditor/templateeditor.cpp" line="661"/>
+        <location filename="../templateeditor/templateeditor.cpp" line="675"/>
         <source>Invalid range for players.</source>
         <translation>Невірна кількість гравців.</translation>
     </message>
     <message>
-        <location filename="../templateeditor/templateeditor.cpp" line="669"/>
+        <location filename="../templateeditor/templateeditor.cpp" line="683"/>
         <source>Invalid range for human players.</source>
         <translation>Невірна кількість гравців-людей.</translation>
     </message>
     <message>
-        <location filename="../templateeditor/templateeditor.cpp" line="684"/>
+        <location filename="../templateeditor/templateeditor.cpp" line="698"/>
         <source>Connection references non-existing zone(s): %1 - %2</source>
         <translation>Сполучення посилається на неіснуючу(і) зону(и): %1 - %2</translation>
     </message>
     <message>
-        <location filename="../templateeditor/templateeditor.cpp" line="696"/>
+        <location filename="../templateeditor/templateeditor.cpp" line="710"/>
         <source>Zone %1 has no connections.</source>
         <translation>Зона %1 не має сполучень з іншими зонами.</translation>
     </message>
     <message>
-        <location filename="../templateeditor/templateeditor.cpp" line="720"/>
+        <location filename="../templateeditor/templateeditor.cpp" line="734"/>
         <source>Player %1 must have exactly one player start zone (found %2).</source>
         <translation>Гравець %1 повинен мати точно одну початкову зону (знайдено %2).</translation>
     </message>
     <message>
-        <location filename="../templateeditor/templateeditor.cpp" line="757"/>
+        <location filename="../templateeditor/templateeditor.cpp" line="771"/>
         <source>Open template</source>
         <translation>Відкрити шаблон</translation>
     </message>
     <message>
-        <location filename="../templateeditor/templateeditor.cpp" line="759"/>
+        <location filename="../templateeditor/templateeditor.cpp" line="773"/>
         <source>VCMI templates(*.json)</source>
         <translation>Шаблони VCMI (*.json)</translation>
     </message>
     <message>
-        <location filename="../templateeditor/templateeditor.cpp" line="775"/>
+        <location filename="../templateeditor/templateeditor.cpp" line="789"/>
         <source>Save template</source>
         <translation>Зберегти шаблон</translation>
     </message>
     <message>
-        <location filename="../templateeditor/templateeditor.cpp" line="775"/>
+        <location filename="../templateeditor/templateeditor.cpp" line="789"/>
         <source>VCMI templates (*.json)</source>
         <translation>Шаблони VCMI (*.json)</translation>
     </message>
     <message>
-        <location filename="../templateeditor/templateeditor.cpp" line="891"/>
-        <location filename="../templateeditor/templateeditor.cpp" line="932"/>
+        <location filename="../templateeditor/templateeditor.cpp" line="905"/>
+        <location filename="../templateeditor/templateeditor.cpp" line="946"/>
         <source>Enter Name</source>
         <translation>Введіть назву</translation>
     </message>
     <message>
-        <location filename="../templateeditor/templateeditor.cpp" line="891"/>
-        <location filename="../templateeditor/templateeditor.cpp" line="932"/>
+        <location filename="../templateeditor/templateeditor.cpp" line="905"/>
+        <location filename="../templateeditor/templateeditor.cpp" line="946"/>
         <source>Name:</source>
         <translation>Назва:</translation>
     </message>
     <message>
-        <location filename="../templateeditor/templateeditor.cpp" line="898"/>
+        <location filename="../templateeditor/templateeditor.cpp" line="912"/>
         <source>Already existing!</source>
         <translation>Вже існує!</translation>
     </message>
     <message>
-        <location filename="../templateeditor/templateeditor.cpp" line="898"/>
+        <location filename="../templateeditor/templateeditor.cpp" line="912"/>
         <source>A template with this name is already existing.</source>
         <translation>Шаблон із такою назвою вже існує.</translation>
     </message>
     <message>
-        <location filename="../templateeditor/templateeditor.cpp" line="915"/>
-        <source>To few templates!</source>
-        <translation>Замало шаблонів!</translation>
+        <location filename="../templateeditor/templateeditor.cpp" line="929"/>
+        <source>Too few templates!</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../templateeditor/templateeditor.cpp" line="915"/>
+        <location filename="../templateeditor/templateeditor.cpp" line="1179"/>
+        <source>Too few zones</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../templateeditor/templateeditor.cpp" line="1179"/>
+        <source>Create at least two zones before adding a connection.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>To few templates!</source>
+        <translation type="vanished">Замало шаблонів!</translation>
+    </message>
+    <message>
+        <location filename="../templateeditor/templateeditor.cpp" line="929"/>
         <source>At least one template should remain after removing.</source>
         <translation>Після видалення має лишитися щонайменше один шаблон.</translation>
     </message>
@@ -4956,47 +4980,47 @@ Guard: %3</source>
         <translation>Користувацьке зерно</translation>
     </message>
     <message>
-        <location filename="../windownewmap.ui" line="1042"/>
+        <location filename="../windownewmap.ui" line="1048"/>
         <source>Generate random map</source>
         <translation>Згенерувати випадкову карту</translation>
     </message>
     <message>
-        <location filename="../windownewmap.ui" line="1070"/>
+        <location filename="../windownewmap.ui" line="1076"/>
         <source>OK</source>
         <translation type="unfinished">Гаразд</translation>
     </message>
     <message>
-        <location filename="../windownewmap.ui" line="1089"/>
+        <location filename="../windownewmap.ui" line="1095"/>
         <source>Cancel</source>
         <translation>Скасувати</translation>
     </message>
     <message>
-        <location filename="../windownewmap.cpp" line="294"/>
+        <location filename="../windownewmap.cpp" line="297"/>
         <source>No template</source>
         <translation type="unfinished">Шаблон відсутній</translation>
     </message>
     <message>
-        <location filename="../windownewmap.cpp" line="294"/>
+        <location filename="../windownewmap.cpp" line="297"/>
         <source>No template for parameters specified. Random map cannot be generated.</source>
         <translation type="unfinished">Немає шаблону для вказаних параметрів. Неможливо згенерувати випадкову карту.</translation>
     </message>
     <message>
-        <location filename="../windownewmap.cpp" line="316"/>
+        <location filename="../windownewmap.cpp" line="319"/>
         <source>RMG failure</source>
         <translation type="unfinished">Помилка генерації випадкової карти</translation>
     </message>
     <message>
-        <location filename="../windownewmap.cpp" line="343"/>
+        <location filename="../windownewmap.cpp" line="346"/>
         <source>Multilevel support</source>
         <translation type="unfinished">Підтримка кількох рівнів</translation>
     </message>
     <message>
-        <location filename="../windownewmap.cpp" line="343"/>
+        <location filename="../windownewmap.cpp" line="346"/>
         <source>Multilevel support is highly experimental yet. Expect issues.</source>
         <translation type="unfinished">Підтримка кількох рівнів поки що дуже експериментальна. Можливі проблеми.</translation>
     </message>
     <message>
-        <location filename="../windownewmap.cpp" line="464"/>
+        <location filename="../windownewmap.cpp" line="467"/>
         <source>[default]</source>
         <translation type="unfinished">[типово]</translation>
     </message>

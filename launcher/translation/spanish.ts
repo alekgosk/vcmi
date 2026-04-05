@@ -89,47 +89,47 @@
     <message>
         <location filename="../aboutProject/aboutproject_moc.ui" line="316"/>
         <source>Export logs</source>
-        <translation type="unfinished">Exportar registros</translation>
+        <translation>Exportar bitácoras</translation>
     </message>
     <message>
         <location filename="../aboutProject/aboutproject_moc.cpp" line="170"/>
         <source>Save logs</source>
-        <translation type="unfinished">Guardar registros</translation>
+        <translation>Guardar bitácoras</translation>
     </message>
     <message>
         <location filename="../aboutProject/aboutproject_moc.cpp" line="170"/>
         <source>Zip archives (*.zip)</source>
-        <translation type="unfinished">Archivos ZIP (*.zip)</translation>
+        <translation>Archivadores zip (*.zip)</translation>
     </message>
     <message>
         <location filename="../aboutProject/aboutproject_moc.cpp" line="272"/>
         <source>Error</source>
-        <translation type="unfinished">Error</translation>
+        <translation>Error</translation>
     </message>
     <message>
         <location filename="../aboutProject/aboutproject_moc.cpp" line="272"/>
         <source>Failed to create archive: %1</source>
-        <translation type="unfinished">No se pudo crear el archivo: %1</translation>
+        <translation>No se pudo crear el archivador: %1</translation>
     </message>
     <message>
         <location filename="../aboutProject/aboutproject_moc.cpp" line="277"/>
         <source>Send logs</source>
-        <translation type="unfinished">Enviar registros</translation>
+        <translation>Enviar bitácoras</translation>
     </message>
     <message>
         <location filename="../aboutProject/aboutproject_moc.cpp" line="277"/>
         <source>The archive will be sent via another application. Share your logs e.g. over discord to developers.</source>
-        <translation type="unfinished">El archivo se enviará mediante otra aplicación. Comparte tus registros, por ejemplo por Discord, con los desarrolladores.</translation>
+        <translation>El archivador se enviará mediante otra aplicación. Comparte tus registros, por ejemplo por Discord, con los desarrolladores.</translation>
     </message>
     <message>
         <location filename="../aboutProject/aboutproject_moc.cpp" line="281"/>
         <source>Success</source>
-        <translation type="unfinished">Éxito</translation>
+        <translation>Logro</translation>
     </message>
     <message>
         <location filename="../aboutProject/aboutproject_moc.cpp" line="281"/>
         <source>Logs saved to %1, please send them to the developers</source>
-        <translation type="unfinished">Registros guardados en %1, envíalos a los desarrolladores</translation>
+        <translation>Bitácoras guardadas en %1, envíalas a los desarrolladores</translation>
     </message>
 </context>
 <context>
@@ -297,12 +297,12 @@
     <message>
         <location filename="../modManager/cmodlistview_moc.cpp" line="363"/>
         <source>Git-Repository</source>
-        <translation type="unfinished">Repositorio Git</translation>
+        <translation>Repositorio Git</translation>
     </message>
     <message>
         <location filename="../modManager/cmodlistview_moc.cpp" line="366"/>
         <source>GitHub-Stars</source>
-        <translation type="unfinished">Estrellas de GitHub</translation>
+        <translation>Estrellas de GitHub</translation>
     </message>
     <message>
         <location filename="../modManager/cmodlistview_moc.cpp" line="385"/>
@@ -357,17 +357,17 @@
     <message>
         <location filename="../modManager/cmodlistview_moc.cpp" line="523"/>
         <source>Context menu</source>
-        <translation type="unfinished">Menú contextual</translation>
+        <translation>Menú contextual</translation>
     </message>
     <message>
         <location filename="../modManager/cmodlistview_moc.cpp" line="566"/>
         <source>Open directory</source>
-        <translation type="unfinished">Abrir directorio</translation>
+        <translation>Abrir directorio</translation>
     </message>
     <message>
         <location filename="../modManager/cmodlistview_moc.cpp" line="571"/>
         <source>Open repository</source>
-        <translation type="unfinished">Abrir repositorio</translation>
+        <translation>Abrir repositorio</translation>
     </message>
     <message>
         <location filename="../modManager/cmodlistview_moc.cpp" line="841"/>
@@ -377,7 +377,7 @@
     <message>
         <location filename="../modManager/cmodlistview_moc.cpp" line="870"/>
         <source>Extracting content.zip (%1/%2) for %3</source>
-        <translation type="unfinished"></translation>
+        <translation>Extrayendo content.zip (%1/%2) para %3</translation>
     </message>
     <message>
         <location filename="../modManager/cmodlistview_moc.cpp" line="877"/>
@@ -411,7 +411,9 @@ Instalar lo correctamente descargado?</translation>
         <source>Failed to install file %1.
 Reason: %2.
 Please report this issue to developers</source>
-        <translation type="unfinished"></translation>
+        <translation>Incorrecto al instalar el archivo %1.
+Motivo: %2.
+Por favor, informe de este asunto a los desarrolladores.</translation>
     </message>
     <message>
         <location filename="../modManager/cmodlistview_moc.cpp" line="1068"/>
@@ -474,12 +476,12 @@ Please report this issue to developers</source>
     <message>
         <location filename="../modManager/cmodlistview_moc.cpp" line="1456"/>
         <source>Uninstall mod</source>
-        <translation type="unfinished"></translation>
+        <translation>Desinstalar mod</translation>
     </message>
     <message>
         <location filename="../modManager/cmodlistview_moc.cpp" line="1456"/>
         <source>Are you sure you want to uninstall %1?</source>
-        <translation type="unfinished"></translation>
+        <translation>¿Seguro que quieres desinstalar %1?</translation>
     </message>
     <message>
         <location filename="../modManager/cmodlistview_moc.cpp" line="974"/>
@@ -722,12 +724,12 @@ Modo Exclusivo de Pantalla Completa - el juego cubrirá toda tu pantalla y usar�
     <message>
         <location filename="../settingsView/csettingsview_moc.ui" line="437"/>
         <source>Full mod extraction</source>
-        <translation type="unfinished"></translation>
+        <translation>Extracción completa del mod</translation>
     </message>
     <message>
         <location filename="../settingsView/csettingsview_moc.ui" line="593"/>
         <source>Show Status in Discord</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostrar estado en Discord</translation>
     </message>
     <message>
         <location filename="../settingsView/csettingsview_moc.ui" line="685"/>
@@ -752,7 +754,7 @@ Modo Exclusivo de Pantalla Completa - el juego cubrirá toda tu pantalla y usar�
     <message>
         <location filename="../settingsView/csettingsview_moc.ui" line="1543"/>
         <source>Save Before Visit</source>
-        <translation type="unfinished"></translation>
+        <translation>Guardar Antes de Visitar</translation>
     </message>
     <message>
         <location filename="../settingsView/csettingsview_moc.ui" line="822"/>
@@ -1129,7 +1131,7 @@ Recuerda que para usar VCMI, debes poseer los archivos de datos originales de He
     <message>
         <location filename="../firstLaunch/firstlaunch_moc.ui" line="316"/>
         <source>You can manually copy Maps, Data, and Mp3 folders from the original game directory to the VCMI data directory shown below</source>
-        <translation type="unfinished"></translation>
+        <translation>Puedes copiar manualmente las carpetas Maps, Data y Mp3 desde el directorio del juego original al directorio de datos VCMI que se muestra a continuación</translation>
     </message>
     <message>
         <location filename="../firstLaunch/firstlaunch_moc.ui" line="353"/>
@@ -1242,12 +1244,12 @@ El instalador offline consta de dos archivos: &quot;.exe&quot; y &quot;.bin&quot
     <message>
         <location filename="../firstLaunch/firstlaunch_moc.ui" line="600"/>
         <source>Install recommended VCMI Mods</source>
-        <translation type="unfinished"></translation>
+        <translation>Instalar los Mods VCMI recomendados</translation>
     </message>
     <message>
         <location filename="../firstLaunch/firstlaunch_moc.ui" line="769"/>
         <source>VCMI Extras</source>
-        <translation type="unfinished"></translation>
+        <translation>VCMI Adicionales</translation>
     </message>
     <message>
         <location filename="../firstLaunch/firstlaunch_moc.ui" line="799"/>
@@ -1257,32 +1259,32 @@ El instalador offline consta de dos archivos: &quot;.exe&quot; y &quot;.bin&quot
     <message>
         <location filename="../firstLaunch/firstlaunch_moc.ui" line="815"/>
         <source>A feature-rich expansion that expands gameplay with one alternative unit for each of the 9 standard towns, plus new neutral creatures, creature banks, skills and spells</source>
-        <translation type="unfinished"></translation>
+        <translation>Una expansión repleta de funciones que amplía la jugabilidad con una unidad alternativa para cada una de las 9 ciudades estándar, además de nuevas criaturas neutrales, bancos de criaturas, habilidades y hechizos</translation>
     </message>
     <message>
         <location filename="../firstLaunch/firstlaunch_moc.ui" line="831"/>
         <source>Descend into the underground realm and uncover Casemate — a new faction where mushrooms, stone and rune magic thrive in the dark, created for VCMI</source>
-        <translation type="unfinished"></translation>
+        <translation>Adéntrate en el reino subterráneo y descubre Casemate, una nueva facción donde los hongos, la piedra y la magia rúnica prosperan en la oscuridad, creada para VCMI</translation>
     </message>
     <message>
         <location filename="../firstLaunch/firstlaunch_moc.ui" line="847"/>
         <source>Heroes III Demo files detected. This mod is required to use demo assets in VCMI, or the game will crash</source>
-        <translation type="unfinished"></translation>
+        <translation>Se han detectado archivos de la demo de Heroes III. Este mod es necesario para usar los recursos de la demo en VCMI; de lo contrario, el juego se bloqueará</translation>
     </message>
     <message>
         <location filename="../firstLaunch/firstlaunch_moc.ui" line="928"/>
         <source>Tides of War</source>
-        <translation type="unfinished"></translation>
+        <translation>Mareas de Guerra</translation>
     </message>
     <message>
         <location filename="../firstLaunch/firstlaunch_moc.ui" line="966"/>
         <source>Fallen of the Depth</source>
-        <translation type="unfinished"></translation>
+        <translation>Caído de las Profundidades</translation>
     </message>
     <message>
         <location filename="../firstLaunch/firstlaunch_moc.ui" line="1004"/>
         <source>Demo support</source>
-        <translation type="unfinished"></translation>
+        <translation>Soporte de demostración</translation>
     </message>
     <message>
         <location filename="../firstLaunch/firstlaunch_moc.ui" line="1065"/>
@@ -1345,23 +1347,24 @@ Por favor, selecciona el directorio con Heroes III: Complete Edition o Heroes II
         <location filename="../firstLaunch/firstlaunch_moc.cpp" line="394"/>
         <source>You need to select a %1 file!</source>
         <comment>param is file extension</comment>
-        <translation type="unfinished"></translation>
+        <translation>¡Debes seleccionar un archivo %1!</translation>
     </message>
     <message>
         <location filename="../firstLaunch/firstlaunch_moc.cpp" line="376"/>
         <source>Unknown installer selected.
 You need to select the offline GOG installer.</source>
-        <translation type="unfinished"></translation>
+        <translation>Se ha seleccionado un instalador desconocido.
+Debes seleccionar el instalador GOG sin conexión.</translation>
     </message>
     <message>
         <location filename="../firstLaunch/firstlaunch_moc.cpp" line="388"/>
         <source>You selected a GOG Galaxy installer. This file does not contain the game. Please download the offline backup game installer instead.</source>
-        <translation type="unfinished"></translation>
+        <translation>Has seleccionado un instalador de GOG Galaxy. Este archivo no contiene el juego. Descarga en su lugar el instalador de respaldo sin conexión.</translation>
     </message>
     <message>
         <location filename="../firstLaunch/firstlaunch_moc.cpp" line="417"/>
         <source>Select the offline GOG installer (.exe)</source>
-        <translation type="unfinished"></translation>
+        <translation>Seleccione el instalador GOG sin conexión (.exe)</translation>
     </message>
     <message>
         <location filename="../firstLaunch/firstlaunch_moc.cpp" line="426"/>
@@ -1373,29 +1376,29 @@ You need to select the offline GOG installer.</source>
         <location filename="../firstLaunch/firstlaunch_moc.cpp" line="433"/>
         <source>Select the offline GOG installer data file: %1</source>
         <comment>param is file name</comment>
-        <translation type="unfinished"></translation>
+        <translation>Seleccione el archivo de datos del instalador GOG sin conexión: %1</translation>
     </message>
     <message>
         <location filename="../firstLaunch/firstlaunch_moc.cpp" line="453"/>
         <location filename="../firstLaunch/firstlaunch_moc.cpp" line="632"/>
         <source>Invalid data file</source>
-        <translation type="unfinished"></translation>
+        <translation>Archivo de datos no válido</translation>
     </message>
     <message>
         <location filename="../firstLaunch/firstlaunch_moc.cpp" line="548"/>
         <location filename="../firstLaunch/firstlaunch_moc.cpp" line="684"/>
         <source>Importing Heroes III data...</source>
-        <translation type="unfinished"></translation>
+        <translation>Importando datos de Heroes III…</translation>
     </message>
     <message>
         <location filename="../firstLaunch/firstlaunch_moc.cpp" line="581"/>
         <source>Preparing installer...</source>
-        <translation type="unfinished"></translation>
+        <translation>Preparando al instalador…</translation>
     </message>
     <message>
         <location filename="../firstLaunch/firstlaunch_moc.cpp" line="641"/>
         <source>Extracting installer...</source>
-        <translation type="unfinished"></translation>
+        <translation>Extrayendo el instalador…</translation>
     </message>
     <message>
         <location filename="../firstLaunch/firstlaunch_moc.cpp" line="668"/>
@@ -1420,7 +1423,7 @@ You need to select the offline GOG installer.</source>
     <message>
         <location filename="../firstLaunch/firstlaunch_moc.cpp" line="698"/>
         <source>Scanning selected folder...</source>
-        <translation type="unfinished"></translation>
+        <translation>Analizando la carpeta seleccionada…</translation>
     </message>
     <message>
         <location filename="../firstLaunch/firstlaunch_moc.cpp" line="473"/>
@@ -1475,17 +1478,17 @@ Por favor, selecciona el directorio con los datos de Heroes III instalados.</tra
     <message>
         <location filename="../modManager/imageviewer_moc.ui" line="100"/>
         <source>&lt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;</translation>
     </message>
     <message>
         <location filename="../modManager/imageviewer_moc.ui" line="138"/>
         <source>&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&gt;</translation>
     </message>
     <message>
         <location filename="../modManager/imageviewer_moc.ui" line="176"/>
         <source>X</source>
-        <translation type="unfinished"></translation>
+        <translation>X</translation>
     </message>
 </context>
 <context>
@@ -1613,7 +1616,7 @@ Bin (%n bytes):
     <message>
         <location filename="../languages.cpp" line="27"/>
         <source>Dutch</source>
-        <translation type="unfinished"></translation>
+        <translation>Holandés</translation>
     </message>
     <message>
         <location filename="../languages.cpp" line="28"/>
@@ -1623,7 +1626,7 @@ Bin (%n bytes):
     <message>
         <location filename="../languages.cpp" line="29"/>
         <source>Filipino</source>
-        <translation type="unfinished"></translation>
+        <translation>Filipino</translation>
     </message>
     <message>
         <location filename="../languages.cpp" line="30"/>
@@ -1668,7 +1671,7 @@ Bin (%n bytes):
     <message>
         <location filename="../languages.cpp" line="38"/>
         <source>Latvian</source>
-        <translation type="unfinished"></translation>
+        <translation>Letón</translation>
     </message>
     <message>
         <location filename="../languages.cpp" line="39"/>
@@ -1698,7 +1701,7 @@ Bin (%n bytes):
     <message>
         <location filename="../languages.cpp" line="44"/>
         <source>Serbian</source>
-        <translation type="unfinished"></translation>
+        <translation>Serbio</translation>
     </message>
     <message>
         <location filename="../languages.cpp" line="45"/>
